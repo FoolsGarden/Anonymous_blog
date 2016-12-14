@@ -3,3 +3,5 @@ get '/' do
   # que esta en app/views/index.erb
   erb :index
 end
+
+
